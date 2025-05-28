@@ -1,0 +1,32 @@
+La programación web se desarrolla utilizando diversas herramientas y lenguajes 
+como HTML, CSS, PHP, JavaScript, entre otros.
+El código de una página web suele dividirse en tres partes fundamentales:
+estructura (HTML), estilo (CSS) y comportamiento (JavaScript).
+
+En este proyecto estamos creando una página sencilla y básica,
+ya que al ser nuestro primer acercamiento al desarrollo web,
+nos enfocaremos únicamente en la estructura del sitio (HTML).
+
+A continuación, te presento un listado de todas las etiquetas HTML utilizadas
+en el proyecto, junto con su respectiva descripción.
+¡Espero que te sirva de guía en tus primeros pasos como programador web!
+¡Buena suerte!
+
+Etiqueta      | Descripción
+--------------+--------------------------------------------------------------
+<!doctype>     | Define el tipo de documento como HTML5.
+<html>         | Define el documento como una página HTML.
+<head>         | Contiene metadatos/información para el documento.
+<meta>         | Define metadatos como la codificación de caracteres y la configuración de visualización.
+<title>        | Especifica el título del documento mostrado en la pestaña del navegador.
+<body>         | Contiene el contenido visible de la página web.
+<h1>           | Encabezado principal, el título más importante.
+<h2>           | Segundo nivel de encabezado, usado para secciones.
+<h3>           | Tercer nivel de encabezado, para subsecciones.
+<div>          | Contenedor genérico para agrupar elementos y aplicar estilos.
+<img>          | Inserta una imagen.
+<i>            | Aplica estilo en cursiva al texto.
+<del>          | Indica texto que ha sido eliminado o tachado.
+<a>            | Crea un hipervínculo a otra página o sitio.
+<br>           | Inserta un salto de línea.
+<p>            | Define un párrafo.
